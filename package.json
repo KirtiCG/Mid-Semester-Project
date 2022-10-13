@@ -1,0 +1,23 @@
+{
+  "name": "mid-semester-project",
+  "version": "1.0.0",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KirtiCG/Mid-Semester-Project.git"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KirtiCG/Mid-Semester-Project/issues"
+  },
+  "homepage": "https://github.com/KirtiCG/Mid-Semester-Project#readme",
+  "description": "",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}
